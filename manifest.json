@@ -1,0 +1,16 @@
+{
+  "id": "custom_music_randomizer",
+  "name": "Custom Music Randomizer",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "category": "AUDIO",
+  "games": ["red", "blue", "yellow", "gold", "silver", "crystal"],
+  "priority": 150,
+  "optional_dependencies": [
+    "MusicReplacementMod",
+    "Music_FRLG",
+    "Music_HGSS",
+    "Music_LGPE"
+  ]
+}
